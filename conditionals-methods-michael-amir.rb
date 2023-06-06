@@ -20,7 +20,10 @@ end
 p is_even(2)
 
 # Create a method that takes a number as an argument and prints "Valid" if the number is between 1 and 10 (inclusive) and "Invalid" otherwise.
-def  is_valid
+
+def  is_valid(inter)
+    if inter 
+
 
 end
 
